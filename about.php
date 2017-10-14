@@ -8,6 +8,6 @@ echo '<html>';
   echo '<body>';
     echo '<h1>Version One</h1>';
     echo '<h2>test line</h2>';
-    echo '<p>some longer text for about</p>';
+    echo '<p>some longer text for about, which is mutch longer than before</p>';
   echo '</body>';
 echo '</html>';
